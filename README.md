@@ -1,5 +1,5 @@
 ### Hey there! 👋
-I'm Amogh Lele, a 21 year old 🚀 full-stack developer 🔨 working at [Trademarkia](https://trdemarkia.com).
+I'm Amogh Lele, a 21 year old 🚀 full-stack developer 🔨 working at [Trademarkia](https://trademarkia.com).
 
 I frequently contribute to Open Source 🌿, and everything I build for myself is available out in the open. 
 I'm a massive [Kotlin](http://kotlinlang.org/) and [Rust 🦀](https://www.rust-lang.org) enthusiast, so you might find me making a lot of projects with them involved.
