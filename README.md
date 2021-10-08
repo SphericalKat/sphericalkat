@@ -3,7 +3,7 @@ I'm Amogh Lele, a 21 year old 🚀 full-stack developer 🔨 working at [Tradema
 
 I frequently contribute to Open Source 🌿, and everything I build for myself is available out in the open. 
 I'm a massive [Kotlin](http://kotlinlang.org/) and [Rust 🦀](https://www.rust-lang.org) enthusiast, so you might find me making a lot of projects with them involved.
-More recently, I've become enamoured with [Elixir](https://elixir-lang.org/).
+More recently, I've been exploring [Elixir](https://elixir-lang.org/).
 
 I'm an absolute sucker for domain hacks (as you might have guessed), and am somewhat of a domain collector.
 
