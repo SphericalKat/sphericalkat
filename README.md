@@ -5,7 +5,7 @@ I frequently contribute to Open Source 🌿, and everything I build for myself i
 I'm a massive [Kotlin](http://kotlinlang.org/) and [Rust 🦀](https://www.rust-lang.org) enthusiast, so you might find me making a lot of projects with them involved.
 More recently, I've been exploring [Elixir](https://elixir-lang.org/).
 
-I'm an absolute sucker for domain hacks (as you might have guessed), and am somewhat of a domain collector.
+I'm an absolute sucker for domain hacks and somewhat of a domain collector.
 
 ### Shameless Plug
 Go use [katb.in](https://katb.in) for all your pastebin and URL 🔗 shortening needs.
