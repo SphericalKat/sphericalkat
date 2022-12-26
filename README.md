@@ -1,5 +1,5 @@
 ### Hey there! 👋
-I'm Amogh Lele, a 22 year old 🚀 full-stack developer 🔨 working at [Dyte](https://dyte.io).
+I'm Amogh Lele, a 23 year old 🚀 full-stack developer 🔨 working at [Dyte](https://dyte.io).
 
 I frequently contribute to Open Source 🌿, and everything I build for myself is available out in the open. 
 I'm a massive [Kotlin](http://kotlinlang.org/) and [Rust 🦀](https://www.rust-lang.org) enthusiast, so you might find me making a lot of projects with them involved.
